@@ -23,8 +23,8 @@ import org.springframework.web.bind.annotation.RestController;
 
 @RestController
 @RequestMapping("explab")
-//@CrossOrigin(origins ="http://localhost:4200")
-@CrossOrigin(origins ="https://fendportfoliowjgz.web.app/main")
+@CrossOrigin(origins ="http://localhost:8080")
+//@CrossOrigin(origins ="https://fendportfoliowjgz.web.app/main")
 public class CExperiencia {
     @Autowired 
     SExperiencia sExperiencia;
