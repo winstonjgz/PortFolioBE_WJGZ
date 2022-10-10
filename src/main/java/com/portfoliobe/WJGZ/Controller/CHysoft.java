@@ -45,7 +45,7 @@ public class CHysoft {
         return new ResponseEntity(hysoft, HttpStatus.OK);
     }
 
-    @PostMapping("/crearExp")
+    @PostMapping("/crearHab")
     public ResponseEntity<?> create(@RequestBody dtoHysoft dtohysoft) {
         if (StringUtils.isBlank(dtohysoft.getNombre())) {
             return new ResponseEntity(new Mensaje("El nombre es obligatorio"), HttpStatus.BAD_REQUEST);

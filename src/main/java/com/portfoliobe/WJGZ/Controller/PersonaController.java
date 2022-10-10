@@ -15,10 +15,6 @@ import org.springframework.web.bind.annotation.RequestBody;
 import org.springframework.web.bind.annotation.RequestParam;
 import org.springframework.web.bind.annotation.RestController;
 
-/**
- *
- * @author wgsig
- */
 
 @RestController
 @CrossOrigin(origins ={"http://localhost:4200","https://fendportfoliowjgz.web.app/main"})
@@ -59,6 +55,11 @@ public class PersonaController {
         
         ipersonaservice.savePersona(persona);
         return persona;
+    }
+    
+    @GetMapping("/personas/traer/perfil")
+    public Persona findPersona(){
+        return ipersonaservice.findPersona((long)1);
     }
 
             

@@ -81,7 +81,14 @@ public class CExperiencia {
     }
     
     
-    
+    @GetMapping("/detail/{id}")
+    public ResponseEntity<Experiencia> getById(@PathVariable("id") int id){
+     if(!sExperiencia.existsById(id)){
+         return new ResponseEntity(new Mensaje("No existe el id"), HttpStatus.BAD_REQUEST);
+                 }
+     Experiencia experiencia = sExperiencia.getOne(id).get();
+     return new ResponseEntity(experiencia, HttpStatus.OK);
+    }
     
     
 }
