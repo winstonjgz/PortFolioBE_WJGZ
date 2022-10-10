@@ -5,10 +5,7 @@ package com.portfoliobe.WJGZ.Security.Dto;
 import java.util.HashSet;
 import java.util.Set;
 
-/**
- *
- * @author wgsig
- */
+
 public class NuevoUsuario {
     private String nombre;
     private String nombreUsuario;

@@ -21,7 +21,7 @@ import org.springframework.web.bind.annotation.RestController;
  */
 
 @RestController
-@CrossOrigin(origins ="http://localhost:8080")
+@CrossOrigin(origins ={"http://localhost:4200","https://fendportfoliowjgz.web.app/main"})
 //@CrossOrigin(origins ="https://fendportfoliowjgz.web.app/main")
 public class PersonaController {
     @Autowired IPersonaService ipersonaservice;
@@ -46,7 +46,7 @@ public class PersonaController {
         return "Registro borrado correctamente";
     }
     
-    @PutMapping ("personas/editar/{id}")
+    @PutMapping ("/personas/editar/{id}")
     public Persona editPersona (@PathVariable Long id, @RequestParam("nombre") String nuevoNombre,
                                 @RequestParam("apellido") String nuevoApellido,
                                 @RequestParam("img") String nuevaImg){
