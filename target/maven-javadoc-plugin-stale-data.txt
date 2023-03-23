@@ -1,0 +1,28 @@
+cmd.exe
+/X
+/C
+"C:\Users\wgsig\AppData\Local\Java\zulu11.62.17-ca-jdk11.0.18-win_x64\zulu11.62.17-ca-jdk11.0.18-win_x64\bin\javadoc.exe @options @packages"
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\allclasses-index.html = 1679606262989
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\allclasses.html = 1679606263006
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\allpackages-index.html = 1679606262994
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\constant-values.html = 1679606262726
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\deprecated-list.html = 1679606263001
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\element-list = 1679606262596
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\help-doc.html = 1679606263019
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\index-all.html = 1679606262980
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\index.html = 1679606263012
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\jquery-ui.overrides.css = 1679606263058
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\member-search-index.js = 1679606262974
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\member-search-index.zip = 1679606262976
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\options = 1679606259790
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\overview-summary.html = 1679606263015
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\overview-tree.html = 1679606262928
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\package-search-index.js = 1679606262964
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\package-search-index.zip = 1679606262968
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\packages = 1679606259791
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\script.js = 1679606263026
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\search.js = 1679606263028
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\serialized-form.html = 1679606262733
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\stylesheet.css = 1679606263022
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\type-search-index.js = 1679606262971
+C:\Users\wgsig\Documents\Curso FullStack\Argentina Programa\PortfolioBE_WJGZnew\target\apidocs\type-search-index.zip = 1679606262972
