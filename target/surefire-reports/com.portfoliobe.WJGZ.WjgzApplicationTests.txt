@@ -1,4 +1,4 @@
 -------------------------------------------------------------------------------
 Test set: com.portfoliobe.WJGZ.WjgzApplicationTests
 -------------------------------------------------------------------------------
-Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 18.194 s - in com.portfoliobe.WJGZ.WjgzApplicationTests
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 15.368 s - in com.portfoliobe.WJGZ.WjgzApplicationTests
